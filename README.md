@@ -4,7 +4,7 @@ This repo accompanies our article:
 
 **Contents:**
 
-`Endotaxis_v3.pdf`: a copy of the article.
+`Endotaxis_230903.pdf`: a copy of the article.
 
 `Endotaxis-F.ipynb`: Jupyter notebook with code to reproduce the analysis in the article.
 
